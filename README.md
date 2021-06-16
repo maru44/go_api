@@ -1,1 +1,5 @@
-# go_api
+# Go API server
+
+```
+go run main.go
+```
